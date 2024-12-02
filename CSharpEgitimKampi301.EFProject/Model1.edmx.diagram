@@ -8,6 +8,7 @@
         <EntityTypeShape EntityType="EgitimKampiEfTravelDbModel.Customer" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="EgitimKampiEfTravelDbModel.Guide" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="EgitimKampiEfTravelDbModel.Location" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EgitimKampiEfTravelDbModel.Admin" Width="1.5" PointX="3.375" PointY="3.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
