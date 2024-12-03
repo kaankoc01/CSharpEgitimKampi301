@@ -12,7 +12,7 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Abstract
         // Repository Design Pattern , bütün entitylere uygulanacağı için generic hale getirdik.
         void Insert(T entity);
         void Update(T entity);
-        void Delete(int id);
+        void Delete(T entity);
         List<T> GetAll();
         T GetById(int id);
     }

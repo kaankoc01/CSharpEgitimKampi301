@@ -55,6 +55,5 @@ namespace CSharpEgitimKampi301.EFProject
             lblAysegulCınarLocationCount.Text = db.Location.Where(x => x.GuideId == guideIdByNameAysegulCınar).Count().ToString();
 
         }
-
     }
 }
