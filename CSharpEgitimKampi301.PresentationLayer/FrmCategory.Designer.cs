@@ -73,7 +73,7 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(323, 44);
+            this.dataGridView1.Location = new System.Drawing.Point(311, 44);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(440, 284);
             this.dataGridView1.TabIndex = 3;
@@ -106,7 +106,7 @@
             // rdbActive
             // 
             this.rdbActive.AutoSize = true;
-            this.rdbActive.Location = new System.Drawing.Point(151, 96);
+            this.rdbActive.Location = new System.Drawing.Point(162, 97);
             this.rdbActive.Name = "rdbActive";
             this.rdbActive.Size = new System.Drawing.Size(46, 17);
             this.rdbActive.TabIndex = 7;
@@ -117,7 +117,7 @@
             // rdbPassive
             // 
             this.rdbPassive.AutoSize = true;
-            this.rdbPassive.Location = new System.Drawing.Point(203, 95);
+            this.rdbPassive.Location = new System.Drawing.Point(223, 97);
             this.rdbPassive.Name = "rdbPassive";
             this.rdbPassive.Size = new System.Drawing.Size(48, 17);
             this.rdbPassive.TabIndex = 8;

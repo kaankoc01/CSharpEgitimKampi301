@@ -51,7 +51,7 @@ namespace CSharpEgitimKampi301.PresentationLayer
         {
             int id = int.Parse(txtCategoryId.Text);
             var values = _categoryService.TGetById(id);
-            var valuesList = new List<Category> { values };
+            var valuesList = new List<Category> { values } ;
             dataGridView1.DataSource = valuesList;
         }
 
