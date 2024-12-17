@@ -65,5 +65,10 @@ namespace CSharpEgitimKampi301.PresentationLayer
             _categoryService.TUpdate(updatedValue);
             MessageBox.Show("Güncelleme Başarılı");
         }
+
+        private void FrmCategory_Load(object sender, EventArgs e)
+        {
+           
+        }
     }
 }
